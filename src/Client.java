@@ -5,6 +5,7 @@ import java.util.List;
 //Observer
 public class Client extends Observer {
 
+    //Strategy
     private Order order;
     private List<Food> finishedOrders;
 
