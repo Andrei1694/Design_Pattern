@@ -11,7 +11,7 @@ public class Main {
         client1.setOrder(o);
         TelephoneOrder telephoneOrder = (TelephoneOrder) client1.getOrder();
         telephoneOrder.addFoodToOrder(new Pizza.PizzaBuilder()
-                .withDough("CACAT")
+                .withDough("Cdsada")
                 .withSauce("HOT")
                 .withTopping(Topping.SALAMI)
                 .build());
