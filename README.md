@@ -1,5 +1,5 @@
 # Design_Pattern
-[x] Observable
+[ x ] Observable
 [x] Singleton
 [x] Builder
 [ ] Strategy
